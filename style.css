@@ -150,6 +150,14 @@ p {
     width: 30%;
   }
 
+  #envelope-text-container p {
+    font-size: 30px;
+  }
+  .letter-window {
+    height: 100vh;
+    background-size: 100vw 45vh;
+  }
+
   .buttons {
     display: flex;
     justify-content: center;
@@ -157,14 +165,19 @@ p {
     position: relative;
   }
 
+  #letter-title {
+    font-size: 20px;
+    margin-top: -20%;
+  }
   .yes-btn,
   .no-btn {
     width: 60px;
   }
   .letter-window.final .cat {
-  width: 20%;
-}
-.final-text {
-  font-size: 100%;
-}
+    width: 25%;
+  }
+
+  .final-text {
+    font-size: 15px;
+  }
 }
