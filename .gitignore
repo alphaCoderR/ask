@@ -1,0 +1,21 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+*.credentials
+*.secret
+
+# Compiled output and temporary files
+/target/ # Example for Maven projects
+/build/  # Example for Gradle or other projects
+*.log
+*.tmp
+*.pyc    # Example for Python
+node_modules/ # Example for Node.js dependencies
+
+# IDE-specific directories
+.idea/      # IntelliJ IDEA
+.vscode/    # VS Code
+.settings/  # Eclipse
