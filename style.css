@@ -147,7 +147,7 @@ p {
 @media only screen and (max-width: 800px) {
   /* For Mobile Viewing */
   .cat {
-    width: 30%;
+    width: 25%;
   }
 
   #envelope-text-container p {
@@ -174,7 +174,7 @@ p {
     width: 60px;
   }
   .letter-window.final .cat {
-    width: 25%;
+    width: 20%;
   }
 
   .final-text {
