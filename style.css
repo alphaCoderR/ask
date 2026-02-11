@@ -54,7 +54,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("window.png");
+  background-image: url("window.jpeg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -167,7 +167,7 @@ p {
 
   #letter-title {
     font-size: 20px;
-    margin-top: -10%;
+    margin-top: -3%;
   }
   .yes-btn,
   .no-btn {
